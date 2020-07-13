@@ -2,7 +2,7 @@
 import RootComponent from "./";
 // import TestRenderer from 'react-test-renderer';
 
-describe("React FAQ component", () => {
+describe("React component", () => {
     it("is truthy", () => {
         expect(RootComponent).toBeTruthy();
     });
