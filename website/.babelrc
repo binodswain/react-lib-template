@@ -3,7 +3,9 @@
   "plugins": [
     ["prismjs", {
       "languages": ["javascript", "css", "markup", "json", "jsx"],
-      // "plugins": ["show-language"],
+      "plugins": [
+        // "show-language"
+      ],
       "theme": "tomorrow",
       "css": true
     }]
